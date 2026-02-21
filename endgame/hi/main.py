@@ -1,0 +1,1 @@
+pip install -q transformers torch datasets scikit-learn     

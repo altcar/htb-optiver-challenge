@@ -1,0 +1,14 @@
+
+refine our strat
+look for all possible
+look at successful, trend
+marketing based to news based
+Stopping...
+root@1b445ec9eab7:~# nohup python final_solution/controller.py > output.log 2>&1 &
+[1] 2714566
+root@1b445ec9eab7:~# ps aux | grep "controller.py"
+bash: ps: command not found
+root@1b445ec9eab7:~# aux ps | grep "controller.py"
+bash: aux: command not found
+root@1b445ec9eab7:~# top
+bash: top: command not found

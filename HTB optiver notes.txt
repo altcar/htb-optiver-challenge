@@ -1,0 +1,38 @@
+optimus is real time hi freq trad
+g research  USP prediction 
+
+mock all the liquility
+find the arbitrage of dual stock and get money as quick as possible
+instrument
+
+hedge strategy
+
+ctf
+finance
+
+you reverse engine websocket => know what everyone else doing
+imagine ssh password is same, you just 
+
+testing accuracy of orderbook(few step behid) and prediction value
+orderbook to other people other
+news (social_media_feed)
+dual_order
+
+small spread
+history of orderbook and find relationship
+
+reduce profile margin real 
+
+spoofing
+layering
+quote stuffing
+momenteumignition manipulating prices through aggressive order
+
+spread == best bid price and best ask price
+
+
+big data, stream, real time, functional processing
+distrubted file sys, object storage, data lake, message queue, streamlit
+
+
+huawei is distrubte software system, huggingface model distributed API and 
